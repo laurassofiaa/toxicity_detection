@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# Except the anonymous notebooks
+!mvp_toxicity_detection_anon.ipynb
+!evaluation_anon.ipynb
+!.gitignore
